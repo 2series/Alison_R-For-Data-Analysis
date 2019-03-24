@@ -1,3 +1,5 @@
+![](image/dta.png)
+
 # Description
 This course first covers the topic of manipulating and grouping data so you can prepare and organize your output. You then learn how to present this output via visualizations. You also study the important packages such as dplyr, tidyr, readr, data.table, SparkR, and ggplot2 along with how these packages can make data manipulation and computation much faster. The course then shows you the crucial difference between a feature manipualrion and observation manipualtion.
 
