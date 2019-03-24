@@ -1,6 +1,3 @@
-# Alison_R-For-Data-Analysis
-R For Data Analysis
-
 # Description
 This course first covers the topic of manipulating and grouping data so you can prepare and organize your output. You then learn how to present this output via visualizations. You also study the important packages such as dplyr, tidyr, readr, data.table, SparkR, and ggplot2 along with how these packages can make data manipulation and computation much faster. The course then shows you the crucial difference between a feature manipualrion and observation manipualtion.
 
@@ -13,7 +10,7 @@ This module begins by introducing you to data manipulation, you will learn about
 In this module you will be introduced to Data visualization, you will learn about what it is and the two different types of visualization. You will learn about the grammar of graphics. You will learn about different graphing and charting library’s you will need for your visualizations. You will learn about setting the colours and organizing your data in the visualizations.
 
 ## Assesssment
-
+![](image/Results.png)
 
 ## Conclusion
 Areas covered in the course: List libraries you will need to include in your analysis for data manipulation - Discuss the process of features and observation manipulation - Describe how the forward pipe operator helps cleans up and organize your code - Explain what data visualization is and the difference between its two types - Describe how to display your data on a visualization.
